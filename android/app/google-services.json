@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "276388401628",
+    "firebase_url": "https://valued-torch-290911.firebaseio.com",
+    "project_id": "valued-torch-290911",
+    "storage_bucket": "valued-torch-290911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276388401628:android:4dbfac23915467e5fa7f19",
+        "android_client_info": {
+          "package_name": "com.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276388401628-djl0op5i6coesqofo7eulna8d2jrch7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7fu-OL5Uk6DEyUxKCpxH0AFWR3vWtYis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276388401628-djl0op5i6coesqofo7eulna8d2jrch7d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276388401628-l90nbkr792dg4ngtelqfq7vri0kh048b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.weatherApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
